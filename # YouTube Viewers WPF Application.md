@@ -44,6 +44,6 @@ The YouTube Viewers application provides functionality for adding, editing, view
 
    ![Edit YouTube Viewer](ss1.png)
 
-   ![Updated Details](iss2.png)
+   ![Updated Details](ss2.png)
 
 
